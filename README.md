@@ -48,4 +48,5 @@ so follow along if you want to see the story of (*maybe)* *one of the best tools
 Im open to new ideas , questions, and requesting help with bypassing parental controls so feel free to ask by opening a new thread on this project's page
 
 See you in the next update
-Bye!   👋
+
+Byeeeee!   👋
