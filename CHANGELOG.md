@@ -2,7 +2,9 @@
 
 This is the changelog for the [APCT](https://github.com/7luk/APCT) project
 
-As you can see, there is nothing here. (yet)
+# Pre.0.0.1
 
-See you in the first update.  👋 👋
+It is just a blank file. but still...
+
+See you in the next update.  👋 👋
 
