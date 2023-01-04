@@ -1,0 +1,7 @@
+@ECHO OFF
+title WpcMon Status Checker Service
+
+echo This is the service that checks the status for Microsoft Family
+echo.
+echo Please do not close this window as it will automatically minimise in 5 seconds && timeout 5 /nobreak > nul
+echo.
